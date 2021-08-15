@@ -33,25 +33,88 @@
     </item>
     
     <item>
-      <title>COVID Dynamics</title>
+      <title>COVID Dynamic Project</title>
       <link>https://ellenhan0201.github.io/project/covid_dyn/</link>
       <pubDate>Fri, 13 Aug 2021 23:27:24 -0700</pubDate>
       <guid>https://ellenhan0201.github.io/project/covid_dyn/</guid>
-      <description>&lt;p&gt;The COVID-19 pandemic is a catastrophe that has caused societal upheaval globally. In the US, it triggered an economic shock and laid bare societal inequities. However, it also afforded a unique opportunity to elucidate the dynamics of psychosocial processes during extreme and volatile conditions. From April 2020 through January 2021, my colleagues and I conducted a within-participant longitudinal study—in 16 waves—to capture the COVID-19 experiences of &amp;gt;1000 US residents, together with curated, external data to contextualize participants&#39; responses. Each hour-long wave combined standard psychological assessments with surveys of emotion, social/political/moral attitudes, COVID-19-related behaviors, and tasks assessing implicit attitudes and social decision-making.&lt;/p&gt;
-&lt;p&gt;To provide a comparison between our COVID-DYNAMIC project and other COVID-related psychological studies, I led a team of 4 undergrad students to compile a comprehensive summary of several hundred COVID-related psychological studies and created an interactive visualization to help researchers identify and locate studies of interest.
-I am working on several projects that focus on emotions experienced during the pandemic, including an investigation of the dimensions that best describe real life human emotion experiences, a characterization of emotions experienced during the pandemic at different time points and in different geographical regions, and understanding the effect of prolonged stressful, socially isolated conditions on experienced emotions.&lt;/p&gt;
+      <description>&lt;p&gt;The COVID-19 pandemic is a catastrophe that has caused societal upheaval globally. In the US, it triggered an economic shock and laid bare societal inequities. However, it also afforded a unique opportunity to elucidate the dynamics of psychosocial processes during extreme and volatile conditions. From April 2020 through January 2021, my colleagues and I conducted a within-participant longitudinal study (&lt;a href=&#34;https://coviddynamic.caltech.edu&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://coviddynamic.caltech.edu&lt;/a&gt;) —in 16 waves—to capture the COVID-19 experiences of &amp;gt;1000 US residents, together with curated, external data to contextualize participants&#39; responses. Each hour-long wave combined standard psychological assessments with surveys of emotion, social/political/moral attitudes, COVID-19-related behaviors, and tasks assessing implicit attitudes and social decision-making.&lt;/p&gt;
+&lt;p&gt;To provide a comparison between our COVID-DYNAMIC project and other COVID-related psychological studies, I led a team of 4 undergrad students to compile a comprehensive summary of several hundred COVID-related psychological studies and created an interactive &lt;a href=&#34;https://coviddynamic.caltech.edu/documents/16453/summary_jittered.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;visualization&lt;/a&gt; to help researchers identify and locate studies of interest.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://ellenhan0201.github.io/uploads/figs/covid_fig1.png&#34; alt=&#34;demo&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;I am working on several projects that focus on emotions experienced during the pandemic, including an investigation of the dimensions that best describe real life human emotion experiences, a characterization of emotions experienced during the pandemic at different time points and in different geographical regions, and understanding the effect of prolonged stressful, socially isolated conditions on experienced emotions.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Emotion</title>
+      <title>Dimensional space of human emotions</title>
       <link>https://ellenhan0201.github.io/project/emotion/</link>
       <pubDate>Fri, 13 Aug 2021 23:27:15 -0700</pubDate>
       <guid>https://ellenhan0201.github.io/project/emotion/</guid>
-      <description>&lt;p&gt;Emotions are psychological states with many different components: physiological changes, expressive actions, subjective experiences and more. They are important both in survival related aspects and in social contexts. Of the many challenging questions that can be asked about emotions, I try to tackle a specific one here, that is, how to best characterize the various subjective emotional experiences (or feelings) in a quantitative manner which is a fundamentally important question without a satisfactory answer yet.
-Previous research can be divided into two broad approaches: one is to describe emotions using emotion categories (which ignores variability within the same emotion category and makes it hard to assess the similarity between categories) and the other is to describe emotions using valence and arousal as two dimensions along which emotions can vary (which is more informative than a single label but still fail to capture enough variability due to its low-dimensional nature).
-To overcome the limitations of previous studies, I have designed and launched a large-scale online data collection targeting emotions evoked by stories, videos and real life events, which is a rich and unique dataset in the field. About 1000 people rated their emotion experiences in real life during the COVID pandemic (16 waves so far), and those very same subjects then also rated their emotion experiences evoked by reading a validated set of 150 short stories, or by watching 1000 short videos designed to induce emotions.
-I am applying dimension reduction techniques to discover an efficient low-dimensional space for emotions and exploring the distributions and structure of the space through interactive visualizations. Additionally, the rich set of psychological assessments that have been collected in our dataset allow me to explore the individual differences in the emotion space.&lt;/p&gt;
+      <description>&lt;p&gt;Emotions are psychological states with many different components: physiological changes, expressive actions, subjective experiences and more. They are important both in survival related aspects and in social contexts. Of the many challenging questions that can be asked about emotions, I try to tackle a specific one here, that is, how to best characterize the various subjective emotional experiences (or feelings) in a quantitative manner which is a fundamentally important question without a satisfactory answer yet.&lt;/p&gt;
+&lt;p&gt;Previous research can be divided into two broad approaches: one is to describe emotions using emotion categories (which ignores variability within the same emotion category and makes it hard to assess the similarity between categories) and the other is to describe emotions using valence and arousal as two dimensions along which emotions can vary (which is more informative than a single label but still fail to capture enough variability due to its low-dimensional nature).&lt;/p&gt;
+&lt;p&gt;To overcome the limitations of previous studies, I have designed and launched a large-scale online data collection targeting emotions evoked by stories, videos and real life events, which is a rich and unique dataset in the field. About 1000 people rated their emotion experiences in real life during the COVID pandemic (16 waves so far), and those very same subjects then also rated their emotion experiences evoked by reading a validated set of 150 short stories, or by watching 1000 short videos designed to induce emotions.&lt;/p&gt;
+&lt;p&gt;I am applying dimension reduction techniques to discover an efficient low-dimensional space for emotions and exploring the distributions and structure of the space through interactive visualizations. Additionally, the rich set of psychological assessments that have been collected in our dataset allow me to explore the individual differences in the emotion space.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://ellenhan0201.github.io/uploads/figs/emo_fig1.jpg&#34; alt=&#34;demo&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://ellenhan0201.github.io/uploads/figs/emo_fig2.png&#34; alt=&#34;demo&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
