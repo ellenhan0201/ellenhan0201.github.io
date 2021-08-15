@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ellenhan0201.github.io/sitemap.xml

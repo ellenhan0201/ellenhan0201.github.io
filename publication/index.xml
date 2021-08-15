@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Yanting Han</title>
+    <link>https://ellenhan0201.github.io/publication/</link>
+      <atom:link href="https://ellenhan0201.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 13 Aug 2021 21:53:59 -0700</lastBuildDate>
+    <image>
+      <url>https://ellenhan0201.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://ellenhan0201.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>The experiences of emotions under prolonged stress and isolation</title>
+      <link>https://ellenhan0201.github.io/publication/han_inprep_3/</link>
+      <pubDate>Fri, 13 Aug 2021 21:53:59 -0700</pubDate>
+      <guid>https://ellenhan0201.github.io/publication/han_inprep_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A characterization of emotions experienced during the COVID pandemic</title>
+      <link>https://ellenhan0201.github.io/publication/han_inprep_2/</link>
+      <pubDate>Fri, 13 Aug 2021 21:53:58 -0700</pubDate>
+      <guid>https://ellenhan0201.github.io/publication/han_inprep_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data-driven discovery of affective dimensions characterizing human emotion experiences</title>
+      <link>https://ellenhan0201.github.io/publication/han_inprep_1/</link>
+      <pubDate>Fri, 13 Aug 2021 21:53:57 -0700</pubDate>
+      <guid>https://ellenhan0201.github.io/publication/han_inprep_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COVID-Dynamic: A large-scale multifaceted longitudinal study of socioemotional and behavioral change across the pandemic</title>
+      <link>https://ellenhan0201.github.io/publication/rusch_psyarxiv/</link>
+      <pubDate>Sun, 07 Mar 2021 21:53:46 -0700</pubDate>
+      <guid>https://ellenhan0201.github.io/publication/rusch_psyarxiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating the heritability of psychological measures in the Human Connectome Project dataset</title>
+      <link>https://ellenhan0201.github.io/publication/han_plos_one/</link>
+      <pubDate>Thu, 09 Jul 2020 21:52:53 -0700</pubDate>
+      <guid>https://ellenhan0201.github.io/publication/han_plos_one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resting-State Functional Brain Connectivity Best Predicts the Personality Dimension of Openness to Experience</title>
+      <link>https://ellenhan0201.github.io/publication/dubois_personality_neuroscience/</link>
+      <pubDate>Thu, 05 Jul 2018 21:53:15 -0700</pubDate>
+      <guid>https://ellenhan0201.github.io/publication/dubois_personality_neuroscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ultra-compliant liquid metal electrodes with in-plane self-healing capability for dielectric elastomer actuators</title>
+      <link>https://ellenhan0201.github.io/publication/liu_apl_2013/</link>
+      <pubDate>Mon, 05 Aug 2013 21:53:22 -0700</pubDate>
+      <guid>https://ellenhan0201.github.io/publication/liu_apl_2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
