@@ -52,49 +52,7 @@
       <description>&lt;p&gt;Emotions are psychological states with many different components: physiological changes, expressive actions, subjective experiences and more. They are important both in survival related aspects and in social contexts. Of the many challenging questions that can be asked about emotions, I try to tackle a specific one here, that is, how to best characterize the various subjective emotional experiences (or feelings) in a quantitative manner which is a fundamentally important question without a satisfactory answer yet.&lt;/p&gt;
 &lt;p&gt;Previous research can be divided into two broad approaches: one is to describe emotions using emotion categories (which ignores variability within the same emotion category and makes it hard to assess the similarity between categories) and the other is to describe emotions using valence and arousal as two dimensions along which emotions can vary (which is more informative than a single label but still fail to capture enough variability due to its low-dimensional nature).&lt;/p&gt;
 &lt;p&gt;To overcome the limitations of previous studies, I have designed and launched a large-scale online data collection targeting emotions evoked by stories, videos and real life events, which is a rich and unique dataset in the field. About 1000 people rated their emotion experiences in real life during the COVID pandemic (16 waves so far), and those very same subjects then also rated their emotion experiences evoked by reading a validated set of 150 short stories, or by watching 1000 short videos designed to induce emotions.&lt;/p&gt;
-&lt;p&gt;I am applying dimension reduction techniques to discover an efficient low-dimensional space for emotions and exploring the distributions and structure of the space through interactive visualizations. Additionally, the rich set of psychological assessments that have been collected in our dataset allow me to explore the individual differences in the emotion space.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://ellenhan0201.github.io/uploads/figs/emo_fig1.jpg&#34; alt=&#34;demo&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://ellenhan0201.github.io/uploads/figs/emo_fig2.png&#34; alt=&#34;demo&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;/p&gt;
+&lt;p&gt;I am applying dimension reduction techniques to discover an efficient low-dimensional space for emotions and exploring the distributions and structure of the space through interactive visualizations (&lt;a href=&#34;narrative.html&#34;&gt;&lt;span style=&#34;color: red;&#34;&gt;&lt;strong&gt;Narrative&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;,&lt;a href=&#34;video.html&#34;&gt;&lt;span style=&#34;color: red;&#34;&gt;&lt;strong&gt;Video&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;,&lt;a href=&#34;reallife.html&#34;&gt;&lt;span style=&#34;color: red;&#34;&gt;&lt;strong&gt;Real-Life&lt;/strong&gt;&lt;/span&gt;&lt;/a&gt;). Additionally, the rich set of psychological assessments that have been collected in our dataset allow me to explore the individual differences in the emotion space.&lt;/p&gt;
 </description>
     </item>
     
