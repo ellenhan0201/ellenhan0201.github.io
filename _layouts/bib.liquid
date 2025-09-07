@@ -67,7 +67,10 @@
             {% assign author_is_self = true %}
           {% endif %}
         {%- endif -%}
-        {%- assign is_mentee = entry.mentee contains author.last -%}
+        {% assign is_mentee = false %}
+        {% if entry.mentee contains author.last %}
+          {%- assign is_mentee = true -%}
+        {%- endif -%}   
         {% assign coauthor_url = null %}
         {%- assign clean_last_name = author_last_name | downcase | remove_accents -%}
         {% if site.data.coauthors[clean_last_name] %}

@@ -20,11 +20,11 @@ related_publications: true
 Emotions are ubiquitous and salient in human lives, and are a key feature of abnormal functioning in psychiatric disorders. One core debate regarding the structure of emotion experience can be roughly summarized as dimensional (typically proposes ‘‘core affect’’: valence and arousal, additional components can then be added to account for the full richness and diversity of human emotion experience) vs. categorical (e.g., classical basic emotion theory argues that emotions are best described by only a few basic emotions). We believe the debate is likely perpetuated by methodological constraints in previous work including the use of isolated stimulus sets, restricted rating scales, modest sample sizes, and inadequate analyses.
 
 In this study, we did not set out to test any specific hypotheses or emotion theory. Instead, we were motivated by a strongly data-driven approach and aimed to be as comprehensive as possible and let the diversity of stimuli, ratings, and analyses speak for themselves. 
-<h2 style="font-size: 1.4rem; font-weight: bold; margin-bottom: 0.5rem;">
+<h2 style="font-size: 1.0rem; text-decoration: underline; font-weight: bold; margin-bottom: 0.5rem;">
 1. Stimuli
 </h2> 
-We used three types of emotion-eliciting stimuli: **150 text narratives, 998 video clips and over 10,000 real-life experiences**. We performed **Principal Components Analysis (PCA)** on original ratings from previous studies to determine the number of narratives and videos needed to capture the majority of variance in the original sets. Final stimuli were selected via maximum variation sampling.	
-<h2 style="font-size: 1.4rem; font-weight: bold; margin-bottom: 0.5rem;">
+We used three types of emotion-eliciting stimuli: **150 text narratives, 998 video clips and over 10,000 real-life experiences**. We performed **Principal Components Analysis (PCA)** on original ratings from previous studies to determine the number of narratives and videos needed to capture the majority of variance in the original sets. Final stimuli were selected via **maximum variation sampling**.	
+<h2 style="font-size: 1.0rem; text-decoration: underline;  font-weight: bold; margin-bottom: 0.5rem;">
 2. Scales
 </h2> 
 Our goal was to have a maximally diverse (but non-redundant) set of scales that describe the properties of emotion experiences.  We started by assembling **an inclusive list of 70 terms from literature**.  We then excluded those scales that described context rather than emotion, and combined synonymous and antonymous scales to eliminate redundancy to reduce the original set to 28 terms. 
@@ -33,10 +33,10 @@ We verified that this refined set was **representative of the initial set** (Uni
 
 The quality of the scales were further assessed through **within-subject test-retest reliability (with Pearson correlations)** and **between-subject consensus (with split-half reliability)**. 
 
-<h2 style="font-size: 1.4rem; font-weight: bold; margin-bottom: 0.5rem;">
+<h2 style="font-size: 1.0rem; text-decoration: underline; font-weight: bold; margin-bottom: 0.5rem;">
 3. Analyses
 </h2> 
-<h3 style="font-size: 1.2rem; font-weight: bold; margin-bottom: 0.5rem;">
+<h3 style="font-size: 1.0rem; text-decoration: underline; font-weight: bold; margin-bottom: 0.5rem;">
 3.1 Dimensional Structure:
 </h3> 
 We first investigated whether the representational structure of emotion is consistent across stimulus domains and if it could be captured by a small number of interpretable dimensions.
@@ -45,7 +45,6 @@ We answered the first part using **Representational similarity analysis (RSA)**.
 
 Given the correlations across rating scales, we next used **Exploratory Factor Analysis (EFA)** to uncover the latent dimensions of emotion experiences. The number of factors (dimensions) to retain was determined using multiple criteria:
 1. We used **statistical metrics** that are commonly used in the literature: the Very Simple Structure, empirical BIC, Velicer’s MAP, parallel analysis, the acceleration factor, and the optimal coordinate metric.
-
 1. We prioritized a **data-driven approach**: empirical cross-validation where we applied EFA to half of the data and Confirmatory Factor Analysis (CFA) to the other half. 
 1. We also systematically decimated both the number of stimuli and the number of scales, testing for the stability of the results if the analysis was re-done on a randomly sampled subset of the data to ensure the **robustness** of our results.
 1. We considered the **interpretability** of the final results based on factor loadings. 
@@ -56,19 +55,13 @@ To address possible concerns that our results may depend on the use of EFA, we f
 
 In the aggregate, these different analyses provide the most convergent result that emotion experiences are characterized efficiently by **a low-dimensional space that includes valence and arousal**.
 
-<h3 style="font-size: 1.2rem; font-weight: bold; margin-bottom: 0.5rem;">
+<h3 style="font-size: 1.0rem; text-decoration: underline; font-weight: bold; margin-bottom: 0.5rem;">
 3.2 Distribution and Clustering:
 </h3> 
 
 We next asked how different emotion experiences are distributed within this dimensional space and whether we could find evidence for clusters that might constitute discrete categories. 
 
-First, we projected data from the original high-dimensional spaces to two-dimensional spaces using **UMAP** for easier visualization and interpretation. Across all three types of emotion experiences, **valence emerged as a continuous global gradient, in line with the dimensional view of emotions**. Interactive versions of UMAP plots are available where each emotion experience can be inspected with the free responses collected in our study when users hover the mouse over the plots (<a href="/assets/html/emo_dim_narrative.html" style="color:green; font-weight:bold;">
-  narrative
-</a>, <a href="/assets/html/emo_dim_video.html" style="color:red; font-weight:bold;">
-  video
-</a>, <a href="/assets/html/emo_dim_reallife.html" style="color:blue; font-weight:bold;">
-  real-life
-</a> 链接 不同颜色标注).
+First, we projected data from the original high-dimensional spaces to two-dimensional spaces using **UMAP** for easier visualization and interpretation. Across all three types of emotion experiences, **valence emerged as a continuous global gradient, in line with the dimensional view of emotions**. Interactive versions of UMAP plots are available where each emotion experience can be inspected with the free responses collected in our study when users hover the mouse over the plots (<a href="/assets/html/emo_dim_narrative.html" style="font-weight:bold;">narrative</a>, <a href="/assets/html/emo_dim_video.html" style="font-weight:bold;">video</a>, <a href="/assets/html/emo_dim_reallife.html" style="font-weight:bold;">real-life</a>).
 
 The qualitative observation of no discrete clustering structure from UMAP was supported by inspecting the distributions of pairwise Euclidean distances in the original high dimensional spaces. **We did not observe numerous peaks in the distributions that might have corresponded to discrete emotions**.
 
@@ -89,4 +82,4 @@ To summarize,
 - Characterizing the distribution revealed that emotions were distributed along continuous gradients, with no well-separated clusters even for emotions belonging to the six basic emotion categories, contrary to theories postulating discrete emotion categories.	
 
 
-We acknowledge that, as with any study, our results are of course still limited by the choice we made on stimuli, tasks, and analytic methods. We provide a detailed discussion on how these choices shape the discovered dimensions of a psychological space in a separate review paper (under review at *Affective Science*, {% cite lin2025review %}). I am also working on a paper on how individuals with alexithymia might differ in their emotion experiences evoked by our three stimulus types.
+We acknowledge that, as with any study, our results are of course still limited by the choice we made on stimuli, tasks, and analytic methods. We provide a detailed discussion on how these choices shape the discovered dimensions of a psychological space in a separate review paper (under review at *Affective Science*, {% cite lin2025review %}). I am also working on a paper on how individuals with alexithymia might differ in their emotion experiences evoked by our three stimulus types {% cite han&ralph2025_alexithymia %}.

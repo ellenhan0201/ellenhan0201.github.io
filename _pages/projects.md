@@ -2,10 +2,10 @@
 layout: page
 title: Featured Research
 permalink: /projects/
-description: Emotions, personality differences, mental health, and beyond.
+description: Emotions, individual differences, mental health, and beyond.
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [work]
 horizontal: false
 ---
 

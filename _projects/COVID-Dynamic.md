@@ -3,7 +3,7 @@ layout: page
 title: COVID-Dynamic Longitudinal Study
 description: 
 img: assets/img/covid_dyn.jpg
-importance: 1
+importance: 2
 category: work
 related_publications: true
 ---
