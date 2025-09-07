@@ -28,6 +28,18 @@ layout: default
 
     <article>
       <div class="cv">
+        {% if page.cv_pdf %}
+          {% assign pdf_path = page.cv_pdf %}
+            {% if pdf_path contains '://' %}
+              <div class="col-12">
+                {% pdf pdf_path width="100%" %}
+              </div>
+            {% else %}
+              <div class="col-12">
+                {% pdf "/assets/pdf/{{ pdf_path }}" width="100%" %}
+              </div>
+            {% endif %}
+        {% endif %}       
         {% for entry in site.data.cv %}
           <a class="anchor" id="{{ entry.title }}"></a>
           <div class="card mt-3 p-3">
