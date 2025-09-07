@@ -15,8 +15,7 @@ Up-to-date publications are also available on
 
 <!-- _pages/publications.md -->
 <div class="pub-note">
-  <b>*</b> Indicates equal contribution. <u>Mentees</u> are underlined.  
-  Peer-reviewed
+  <b>*</b> indicates equal contribution. <u>Mentees</u> are underlined.  
 </div>
 <!-- Bibsearch Feature -->
 

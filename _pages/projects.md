@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: Featured Research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Emotions, personality differences, mental health, and beyond.
 nav: true
 nav_order: 2
 display_categories: [work, fun]

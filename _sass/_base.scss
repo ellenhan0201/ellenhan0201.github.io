@@ -777,8 +777,12 @@ footer.sticky-bottom {
         }
 
         > em {
-          border-bottom: 1px solid;
-          font-style: normal;
+          /* border-bottom: 1px solid; */
+          /* font-style: normal; */
+          font-weight: bold;   /* makes text bold */
+          font-style: normal;  /* keeps it normal, not italic */
+          border: none;        /* remove underline */
+          color: green;  
         }
 
         > span.more-authors {
