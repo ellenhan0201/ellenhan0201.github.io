@@ -2,7 +2,7 @@
 layout: page
 title: Dimensional space of human emotions
 description: 
-img: assets/img/emo_dim.jpg
+img: assets/img/emo_dim.png
 importance: 1
 category: work
 related_publications: true
