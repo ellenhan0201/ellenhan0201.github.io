@@ -6,7 +6,16 @@ assets/js/distillpub/template.v2.js
 assets/js/search/*.js
 assets/plotly/demo.html
 lighthouse_results/**
-_posts/2015-10-20-math.md
+_posts/**
 _sass/font-awesome/*.scss
 _sass/tabler-icons/*.scss
 _scripts/*
+
+# Theme/template or generated content that is not edited as part of this site.
+_data/coauthors.yml
+_data/cv.yml
+_layouts/**
+_news/**
+_sass/**/*.scss
+assets/html/**
+assets/json/resume.json

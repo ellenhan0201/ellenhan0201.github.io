@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COVID-Dynamic Longitudinal Study
-description: 
+description:
 img: assets/img/covid_dyn.jpg
 importance: 2
 category: work
@@ -19,7 +19,7 @@ related_publications: true
 
 The COVID-19 pandemic was a global catastrophe that caused widespread societal upheaval. However, it also presented a unique scientific opportunity to elucidate the dynamics of psychosocial processes under extreme and volatile conditions. To minimize future societal costs and ensure preparedness, my colleagues and I launched the <a href="https://coviddynamic.caltech.edu">COVID-Dynamic Longitudinal Study</a> .
 
-Our study features: 
+Our study features:
 
 - **18 waves of data collection** from April 2020 to December 2021.
 - A diverse sample of **> 1,000 U.S. residents**, varying in geographic location and age.
@@ -40,8 +40,6 @@ Furthermore, I led a team of four undergraduates to curate a repository of **ove
     A snapshot of the interactive figure. You can click the link above to view the whole interactive figure.
 </div>
 
-
 The first 16 waves of data have been publicly released and are described in detail in our <a href="https://www.nature.com/articles/s41597-022-01901-6">data release paper </a> {% cite rusch2023covid %} which has facilitated numerous research projects including my own work on the structure of emotions (details <a href="https://ellenhan0201.github.io/projects/Emotion-Dim/">here</a>). A catalog of these projects, which demonstrates the breadth of the dataset's application, is available on our <a href="https://coviddynamic.caltech.edu/research-projects">Research Projects page</a>.
 
 We designed the COVID-Dynamic study to serve as a lasting resource for researchers investigating both COVID-19-specific questions and basic psychological phenomena. We also hope it provides valuable insights for clinicians and policymakers seeking to mitigate the effects of future public health calamities.
-

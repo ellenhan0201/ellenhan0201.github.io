@@ -26,10 +26,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hello! This is Yanting Han. 
 
-I study emotions, individual differences, and mental health. I take an interdisciplinary approach to investigate emotions by collecting large-scale behavioral data via online crowdsourcing platforms and then applying advanced visualization and machine learning techniques. 
+Hello! This is Yanting Han.
 
-I am also interested in applying what we learn from humans to artificial intelligence. 
+I study emotions, individual differences, and mental health. I take an interdisciplinary approach to investigate emotions by collecting large-scale behavioral data via online crowdsourcing platforms and then applying advanced visualization and machine learning techniques.
 
-
+I am also interested in applying what we learn from humans to artificial intelligence.
