@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COVID-Dynamic Longitudinal Study
-description:
+description: Longitudinal behavioral dataset and interactive resources tracking psychological change during COVID-19.
 img: assets/img/covid_dyn.jpg
 importance: 2
 category: work

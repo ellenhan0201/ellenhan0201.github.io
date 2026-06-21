@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dimensional space of human emotions
-description:
+description: Large-scale computational study of emotion experiences across narratives, videos, and real-life reports.
 img: assets/img/emo_dim.png
 importance: 1
 category: work

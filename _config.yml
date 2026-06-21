@@ -8,11 +8,11 @@ middle_name:
 last_name: Han
 contact_note: > #You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Yanting Han is a research scientist studying emotion, mental health, and AI through large-scale behavioral data, computational modeling, and visualization.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: emotions, individual differences, AI, mental health # add your own keywords or leave empty
+keywords: emotions, individual differences, mental health, human-centered AI, behavioral data, computational modeling # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ai_brain_tab_icon.jpg # ⚛️,the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
