@@ -45,14 +45,19 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
+            },},{id: "news-announcement-4",
+          title: 'Announcement_4',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_4/";
             },},{id: "projects-covid-dynamic-longitudinal-study",
           title: 'COVID-Dynamic Longitudinal Study',
-          description: "",
+          description: "Longitudinal behavioral dataset and interactive resources tracking psychological change during COVID-19.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/COVID-Dynamic/";
             },},{id: "projects-dimensional-space-of-human-emotions",
           title: 'Dimensional space of human emotions',
-          description: "",
+          description: "Large-scale computational study of emotion experiences across narratives, videos, and real-life reports.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Emotion-Dim/";
             },},{
