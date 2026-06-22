@@ -72,7 +72,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/yanting-han-814929a0", "_blank");
+          window.open("https://www.linkedin.com/in/yanting-han-ph-d-814929a0/", "_blank");
         },
       },{
         id: 'social-scholar',
