@@ -45,11 +45,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_3/";
-            },},{id: "news-announcement-4",
-          title: 'Announcement_4',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_4/";
             },},{id: "projects-covid-dynamic-longitudinal-study",
           title: 'COVID-Dynamic Longitudinal Study',
           description: "Longitudinal behavioral dataset and interactive resources tracking psychological change during COVID-19.",
